@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/Github repositories/Motores261/MyGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Github repositories/Motores261/MyGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Github repositories/Motores261/MyGame/Content/Assets_2D/Fish.uasset",
+				"D:/Github repositories/Motores261/MyGame/Content/Assets_2D/Music.uasset",
+				"D:/Github repositories/Motores261/MyGame/Content/Widgets/Menu.uasset"
+			]
+		}
+	]
+}
