@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/BP_UI.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/WEST____.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/WEST_____Font.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/__ExternalActors__/Assets/CowboyHunt/6/HX/I8K66BFSCVLQEIKV4BM4RN.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/CowboyHunt.umap",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/BP_UI.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/CowboyHunt_HLOD0_Instancing.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_BalaA.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_BaseDere.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_BaseIzquierda.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_BaseMid.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_Bulture.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_BultureActive.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_BultureInactive.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_OWH_CuadroBarra.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/UI_WesternDuck.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/WEST____.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/Assets/WEST_____Font.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_WesternDuck.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_CuadroBarra.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_BultureInactive.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_BultureActive.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_Bulture.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_BaseMid.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_BaseIzquierda.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_BaseDere.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/UI_OWH_BalaA.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/CowboyHunt_HLOD0_Instancing.uasset",
+				"C:/Users/B760/Downloads/RepoAkinRivas/Motores261/MyGame/Content/CowboyHunt.umap"
+			]
+		}
+	]
+}
