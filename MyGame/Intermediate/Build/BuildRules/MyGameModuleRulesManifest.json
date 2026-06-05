@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\sebas\\Desktop\\GitHub\\Motores261\\MyGame\\Intermediate\\Source\\MyGame.Build.cs",
+		"C:\\Users\\sebas\\Desktop\\GitHub\\Motores261\\MyGame\\Intermediate\\Source\\MyGame.Target.cs",
+		"C:\\Users\\sebas\\Desktop\\GitHub\\Motores261\\MyGame\\Intermediate\\Source\\MyGameClient.Target.cs",
+		"C:\\Users\\sebas\\Desktop\\GitHub\\Motores261\\MyGame\\Intermediate\\Source\\MyGameEditor.Target.cs",
+		"C:\\Users\\sebas\\Desktop\\GitHub\\Motores261\\MyGame\\Intermediate\\Source\\MyGameServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
