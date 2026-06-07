@@ -19,6 +19,14 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
